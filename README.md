@@ -1,2 +1,2 @@
 # fun-with-math
-live link ----> 
+live link ----> https://mdzakirhossainbhuiyan.github.io/fun-with-math/.
